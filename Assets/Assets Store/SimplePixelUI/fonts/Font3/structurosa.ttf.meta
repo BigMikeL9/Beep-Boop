@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e165d4517cea5d848a8b3c0ea80b8c4b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Structurosa
+  fontNames:
+  - Structurosa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84a9da5c4e8734e4cb36b94614d0829e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
